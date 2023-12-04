@@ -1,0 +1,14 @@
+{
+    "activation": "relu",
+    "pool_dim": 2,
+    "conv1_filter": 128,
+    "conv1_kernel": 3,
+    "conv2_filter": 64,
+    "conv2_kernel": 5,
+    "conv3_filter": 64,
+    "conv3_kernel": 7,
+    "dropout": 0.1,
+    "dense": 256,
+    "lr": 0.001,
+    "optimizer": "adam"
+}
